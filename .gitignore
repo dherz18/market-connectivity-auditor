@@ -1,0 +1,17 @@
+.env
+venv/
+.env.local
+__pycache__/
+*.pyc
+.DS_Store
+
+# Generated vendor extract files
+vendor_data/
+
+# Generated usage log
+internal_usage_logs.csv
+
+# Output reports
+reports/
+inactive_users_report.csv
+no_usage_report.csv
