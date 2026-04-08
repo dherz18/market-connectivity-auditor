@@ -1,0 +1,18 @@
+Subject: Cost Optimization Alert: Vendor Audit 2026-04
+
+From: [sender]
+To: [recipient]
+
+Hello,
+
+The monthly vendor audit is complete.
+
+Audit Summary:
+- Subscriptions with No Usage: 7
+- Inactive Subscriptions (>30 Days): 15
+
+Total Potential Monthly Savings: $50,800.00
+
+Detailed reports are attached.
+
+Regards,
