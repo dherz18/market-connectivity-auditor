@@ -11,7 +11,7 @@ vendor_data/
 # Generated usage log
 internal_usage_logs.csv
 
-# Output reports
-reports/
-inactive_users_report.csv
-no_usage_report.csv
+# Output reports (generated at runtime)
+/reports/
+/inactive_users_report.csv
+/no_usage_report.csv
